@@ -52,6 +52,7 @@ export default class ExercisesList extends Component {
     return (
       <div>
         <h3>Logged Exercises</h3>
+        <br></br>
         <table className="table">
           <thead className="thead-light">
             <tr>
